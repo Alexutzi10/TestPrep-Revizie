@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Revizie</string>
+    <string name="sterge">Sterge</string>
+    <string name="populate_db">Populate db</string>
+    <string name="price">Price</string>
+    <string name="price_value">Price value</string>
+    <string name="inserted">Inserted</string>
+    <string name="price_value_field_is_empty">Price value field is empty</string>
+    <string name="deleted">Deleted</string>
+    <string name="loaded">Loaded</string>
+    <string-array name="spinner_values">
+        <item>are valoarea mai mare decat</item>
+        <item>are valoarea mai mica decat</item>
+        <item>are valoarea egala cu</item>
+    </string-array>
+</resources>
